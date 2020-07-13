@@ -34,13 +34,27 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    I specialize in utilizing the latest front-end web
+    frameworks to organize and communicate information.
+    My background in the humanities, design, and
+    programming allows me to bridge the divide between
+    disciplines, and effectively translate user needs to
+    achieve desired business goals.
 education:
+      - degree: Front End Programming Bootcamp Certificate
+    university: Grand Circus
+    time: 2019 - 2019
+    details: |
+ Located in the heart of Detroit's tech center, the Grand Circus Bootacmp is an accelerated program covering the latest front-end development workflows and frameworks.
+ Topics covered:
+        - Angular 7+
+        - JavaScript/TypeScript
+        - HTML5/CSS/SASS
+        - UI design
+        - Git version control
+        - NodeJs / Express Server
+        - Project management, problem-solving and collaboration
+
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
