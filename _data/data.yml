@@ -31,10 +31,7 @@ sidebar:
       - item: Cooking
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-    I specialize in utilizing the latest front-end web frameworks to organize and communicate information. My background in the humanities, design, and programming allows me to bridge the divide between disciplines, and effectively translate user needs to achieve desired business goals.
+
 education:
   - degree: Master of Library and Information Science
     university: Grand Circus
@@ -49,10 +46,10 @@ education:
         - Git version control
         - NodeJs / Express Server
         - Project management, problem-solving and collaboration
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -60,10 +57,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
