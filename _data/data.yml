@@ -34,14 +34,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    I specialize in utilizing the latest front-end web
-    frameworks to organize and communicate information.
-    My background in the humanities, design, and
-    programming allows me to bridge the divide between
-    disciplines, and effectively translate user needs to
-    achieve desired business goals.
+    I specialize in utilizing the latest front-end web frameworks to organize and communicate information. My background in the humanities, design, and programming allows me to bridge the divide between disciplines, and effectively translate user needs to achieve desired business goals.
 education:
-    - degree: Front End Programming Bootcamp Certificate
+  - degree: Master of Library and Information Science
     university: Grand Circus
     time: 2019 - 2019
     details: |
@@ -54,9 +49,9 @@ education:
         - Git version control
         - NodeJs / Express Server
         - Project management, problem-solving and collaboration
-    - degree: Master of Library and Information Science
-      university: Wayne State University
-      time: 2011 - 2012
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
