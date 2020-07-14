@@ -34,11 +34,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I specialize in utilizing the latest front-end web frameworks to organize and communicate information. My background in the humanities, design, and programming allows me to bridge the divide between disciplines, and effectively translate user needs to achieve desired business goals.
+    I specialize in utilizing the latest front-end web frameworks to organize and communicate information. My background in the humanities, design, and programming allows me to bridge the divide between disciplines to effectively translate user needs and achieve desired business goals.
 education:
-  - degree: Master of Library and Information Science
+  - degree: Bootcamp Certificate
     university: Grand Circus
-    time: 2019 - 2019
     details: |
       Located in the heart of Detroit's tech center, the Grand Circus Bootacmp is an accelerated program covering the latest front-end development workflows and frameworks.
       Topics covered:
@@ -49,114 +48,49 @@ education:
         - Git version control
         - NodeJs / Express Server
         - Project management, problem-solving and collaboration
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Master of Library and Information Science
+    university: Wayne State University
     details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+          - Focused in special libraries and web technology
+          - Post-graduate fellowship at the United Nations in Geneva, Switzerland
+  - degree: Bachelor of English
+    university: Michigan State University
     details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Areas of focus in world literature, poetry, and creative writing
+          - Cognate in Anthropology
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cloud App QA Analyst
+      time: June 2020 - Present
+      company: Collabera at BASF
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          Ensure new and existing app features function correctly and perform at or above industry standards.
+            -Document and report app problems and concerns
+            -Write and run tests on completed and pushed code
+            -Contribute users stories to improve application features
+            -Utilize JIRA for issue and project tracking
+    - role: Cloud App Development Trainee
+      time: Sept. 2019 - May 2020
+      company: Collabera at BASF
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          Programmed features for a soon-to-launch cloud-based paint formulation and mixing application.
+            -Utilized knowlege of JavaScript, TypeScript, Angular framework, HTML5, and SASS to develop dynamic and user-friendly front-end interfaces
+            -Programmed backend functionality in C# .Net
+            -Manipulated database information using SQL
+            -Used Git for version control and JIRA for issue and project tracking
+    - role: Freelance Web Developer
+      time: Jan. 2017 - Aug. 2019
+      company: Self-employed
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          - Built websites for business that reflected brand image and supported business goals.
+          - Troubleshot, updated, and added features to client websites.
+          - Built and maintained e-commerce sites based on Woocommerce.
+    - role: Customer Success Specialist
+      time: March 2014 - Feb. 2017
+      company: Collage.com
+      details: |
+          - Wrote, updated, and edited website documentation for customers and staff
+          - Carried out site quality assurance and worked with development team to resolve website technical issues
+          - Assisted customers via email, chat, and phone support
 
 skills:
     title: Skills &amp; Proficiency
@@ -181,4 +115,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed DICKHEAD with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
