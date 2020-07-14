@@ -32,7 +32,7 @@ sidebar:
         link:
 
 career-profile:
-  title: Career Profile
+  title: Overview
   summary: |
     I specialize in utilizing the latest front-end web frameworks to organize and communicate information. My background in the humanities, design, and programming allows me to bridge the divide between disciplines to effectively translate user needs and achieve desired business goals.
 education:
@@ -58,7 +58,7 @@ education:
     details: |
           - Areas of focus in world literature, poetry, and creative writing
           - Cognate in Anthropology
-experiences:
+    experiences:
     - role: Cloud App QA Analyst
       time: June 2020 - Present
       company: Collabera at BASF
