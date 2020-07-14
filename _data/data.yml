@@ -64,26 +64,26 @@ experiences:
       company: Collabera at BASF
       details: |
           Ensure new and existing app features function correctly and perform at or above industry standards.
-            -Document and report app problems and concerns
-            -Write and run tests on completed and pushed code
-            -Contribute users stories to improve application features
-            -Utilize JIRA for issue and project tracking
+            - Document and report app problems and concerns
+            - Write and run tests on completed and pushed code
+            - Contribute users stories to improve application features
+            - Utilize JIRA for issue and project tracking
     - role: Cloud App Development Trainee
       time: Sept. 2019 - May 2020
       company: Collabera at BASF
       details: |
           Programmed features for a soon-to-launch cloud-based paint formulation and mixing application.
-            -Utilized knowlege of JavaScript, TypeScript, Angular framework, HTML5, and SASS to develop dynamic and user-friendly front-end interfaces
-            -Programmed backend functionality in C# .Net
-            -Manipulated database information using SQL
-            -Used Git for version control and JIRA for issue and project tracking
+            - Utilized knowlege of JavaScript, TypeScript, Angular framework, HTML5, and SASS to develop dynamic and user-friendly front-end interfaces
+            - Programmed backend functionality in C# .Net
+            - Manipulated database information using SQL
+            - Used Git for version control and JIRA for issue and project tracking
     - role: Freelance Web Developer
       time: Jan. 2017 - Aug. 2019
       company: Self-employed
       details: |
-          - Built websites for business that reflected brand image and supported business goals.
-          - Troubleshot, updated, and added features to client websites.
-          - Built and maintained e-commerce sites based on Woocommerce.
+          - Built websites for businesses that reflected brand image and supported business goals
+          - Troubleshot, updated, and added features to client websites
+          - Built and maintained e-commerce sites based on Woocommerce
     - role: Customer Success Specialist
       time: March 2014 - Feb. 2017
       company: Collage.com
@@ -91,6 +91,7 @@ experiences:
           - Wrote, updated, and edited website documentation for customers and staff
           - Carried out site quality assurance and worked with development team to resolve website technical issues
           - Assisted customers via email, chat, and phone support
+          - Special projects included a product usability report and analyzing customer feedback
 
 skills:
     title: Skills &amp; Proficiency
