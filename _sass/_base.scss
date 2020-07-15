@@ -36,6 +36,11 @@ p {
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
 }
 
+.back-btn {
+    position: absolute;
+    top: 5px;
+}
+
 .sidebar-wrapper {
     background: $theme-color;
     position: absolute;
