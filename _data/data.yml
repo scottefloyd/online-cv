@@ -74,9 +74,8 @@ experiences:
       details: |
           Programmed features for a soon-to-launch cloud-based paint formulation and mixing application.
             - Utilized knowlege of JavaScript, TypeScript, Angular framework, HTML5, and SASS to develop dynamic and user-friendly front-end interfaces
-            - Programmed backend functionality in C# .Net
-            - Manipulated database information using SQL
-            - Used Git for version control and JIRA for issue and project tracking
+            - Programmed backend functionality in C# .Net and SQL
+            - Git for version control and JIRA for issue and project tracking
     - role: Freelance Web Developer
       time: Jan. 2017 - Aug. 2019
       company: Self-employed
