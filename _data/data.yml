@@ -17,19 +17,19 @@ sidebar:
     github: scottefloyd
     twitter: '@scottrrr'
 
-    languages:
-      - idiom: English
-        level: Native
+    Memberships:
+      - item: Interactive Design Foundation
+
+      - item: TCNewTech
+
+      - item: A2NewTech
 
     interests:
-      - item: Climbing
-        link:
+      - item: Kitesurfing
 
-      - item: Snowboarding
-        link:
+      - item: Biking
 
-      - item: Cooking
-        link:
+      - item: T-Shirt Design
 
 career-profile:
   title: Overview
@@ -102,11 +102,17 @@ skills:
       - name: User Experience Design
         level: 90%
 
+      - name: User Research
+        level: 90%
+
       - name: Photoshop & Illustrator
         level: 95%
 
       - name: Prototyping & Mockups
         level: 95%
+
+      - name: Sketch
+        level: 60%
 
       - name: Javascript & TypeScript
         level: 80%
