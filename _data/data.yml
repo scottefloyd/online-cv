@@ -18,11 +18,14 @@ sidebar:
     twitter: '@scottrrr'
 
     languages:
-      - idiom: Interactive Design Foundation
+      - idiom: Interaction Design Foundation
+        link: https://www.interaction-design.org/
 
       - idiom: TCNewTech
+        link: https://tcnewtech.org/
 
       - idiom: A2NewTech
+        link: https://www.meetup.com/a2newtech/
 
     interests:
       - item: Kitesurfing

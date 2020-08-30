@@ -8,9 +8,10 @@
 
   <ul class="list-unstyled interests-list">
     {%for language in languages %}
-    <li>
+    <a href="{{ language.link }}"><li>
       {{ language.idiom }}
     </li>
+  </a>
     {% endfor %}
   </ul>
 
